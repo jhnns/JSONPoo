@@ -1,4 +1,4 @@
-JSONPoo 💩
+JSONPoo 
 =======
 
 *Like JSONP, but better*
@@ -36,7 +36,7 @@ window["💩"] = function (url) {
     var args = Array.prototype.slice.call(arguments, 1);
     
     switch (url) {
-		    case "http://server.example.com/users/1234":
+        case "http://server.example.com/users/1234":
             addUser.apply(null, args);
             break;
         ...
