@@ -1,4 +1,4 @@
-JSONPoo &#x1F4A9;
+JSONPoo
 =======
 
 *Like JSONP, but better*
@@ -44,4 +44,8 @@ window["💩"] = function (url) {
 };
 ```
 
-*Please note, that the 💩-symbol is currently not allowed to be used in JavaScript-code. Therefore you have to escape it with brackets. A proposal for standardization is on the way.*
+## Symbol
+
+Please note, that the 💩-symbol is currently not allowed to be used in JavaScript-code. Therefore you have to escape it with brackets. A proposal for standardization is on the way.
+
+The unicode+hex notation is: `U+1F4A9`. Until every keyboard has a 💩-symbol you may copy it from [here](http://unicodepooforyou.com/).
