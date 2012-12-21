@@ -1,7 +1,7 @@
-JSONPoo
+JSONPoo &#x1F4A9;
 =======
 
-*Like JSONP, but better* 💩
+*Like JSONP, but better*
 
 ## Synopsis
 
