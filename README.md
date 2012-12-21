@@ -1,7 +1,7 @@
 JSONPoo
 =======
 
-*Like JSONP, but better*
+*Like JSONP, but better* 💩
 
 ## Synopsis
 
