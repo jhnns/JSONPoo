@@ -20,9 +20,7 @@ Within the `💩`-callback you can separate the incoming data by the url and pro
 Inject into the head of the document:
 
 ```html
- <script type="text/javascript"
-         src="http://server.example.com/users/1234">
- </script>
+<script type="text/javascript" src="http://server.example.com/users/1234"></script>
 ```
 
 And the server will respond with:
