@@ -1,4 +1,4 @@
-JSONPoo 💩
+💩 JSONPoo
 =======
 
 *Like JSONP, but better*
