@@ -9,7 +9,7 @@ JSONPoo
 
 ## Concept
 
-Currently it is really annoying that you have to pass the funciton name via the url, like `http://server2.example.com/Users/1234?jsonp=parseResponse`. This seems like a dirty hack and is not state of the art.
+Currently it is really annoying that you have to pass the function name via the url, like `http://server2.example.com/Users/1234?jsonp=parseResponse`. This seems like a dirty hack and is not state of the art.
 
 JSONPoo specifies that all callbacks have to be done via the `💩`-property of the `window`-object. The function is called with the first parameter being the url of the requested resource. All other parameters are optional and depend on the resource.
 
